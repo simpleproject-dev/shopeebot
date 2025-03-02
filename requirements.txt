@@ -1,0 +1,6 @@
+flask
+beautifulsoup4
+gspread
+oauth2client
+requests
+tweepy

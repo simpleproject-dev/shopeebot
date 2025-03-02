@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shopeebot-451907",
+  "private_key_id": "ed00e2d4bd55e9d48489c22a7f25a8507edb8f52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDS70IdyUhqbJx2\nfysLcGpRlBOmUB70jB3MFyuAYIrzh64MbI+HBTT1tVRQ//TJClNBM1XKhdZTGtZ1\nbSY49W9ZgwWmuA9vyGDcp/dscAm2Tu8riHlS7+ycdu8xpZcFbR/6CcOH3NWOkAAW\nhm53odibYfQ2O7+Vjf0X0jXb71bfPJQBM1jglzwsQc5GBnQ5Aano82qilbf6j+wl\nxdnwMIwbPOFJ6M5LRD7Dw9RU6oplFSobsw1GfQ2l2CzhTY3Ku7yLbIeFfkmf9L5f\n2YAjcZyPA0iMiUUaJ2ICji4JOdq8Vy66Id0a+5+J5MOIgtF37RSJnU1OC1AxadXq\najPUpjD7AgMBAAECggEAUO1quHLZTbuN7AiuQx1GLTZas5xZxAleBUd+cSqZJQYR\nSML97heZUgvX5ZvOFrPXbVR8vc7Lg+bwEO1nlMLVjcovCN/lTEXco8vtqbTyhPeT\n22fo5GEYro8TBkE5x+MuOYg1dJLNfHzTC9FX4J4/tJ3ITGZwArkPOWx1LYSOF+c7\nLcr/d76FbuL1bOfWXzB8LAUH75wNrN99TKfrwIOtzCYNefcDRmqItck2gBQSaZTI\nPf6lWoFAiflH1rEVn/WyRLuo8ITo6+NHXg+j1qiNW0S8IFxpaCtfwn/w5alfbJdx\n7Y5S79o3pM3/rsQANwKG7ACEyYFybZnmsDa1cdsxAQKBgQD6vy9QwA1sxyH7BN9R\n1Ib+7zwaliDWft7I4LAcUhEUKz2N8PgBAbDjps4rk2413hv1Q+FDkoS64GdDJm9v\nBsclsJBbzT/49pKguRkOQSfYd1IT6MJweCglBDDzTVjXjY8ODMsixfH/BNE1DYHC\nPN7bWudDQuZf4yufgNVf5uYwsQKBgQDXWo0PWSrJJlJcvrJM63RxgboKr85sRBcC\nupC6MTqb2+vXn5ghShYsw6t+y6QNhqfmYKsQjbPKzAUilTpcKzOHMQ5eQhSEIWYn\nvNXEAPNORpYri/zQg3xY8/EHMy5rn5pJME8l3ajeWdmZbYb5nZVKOH2qzpAWhAm2\n65p4x4sHawKBgAtzicSlULekDIA7Q7un+hZQdK0+J/fDyYbhBAn3EYKbSu9djuX0\n3tA2wPmqfQEGyL4VwIbmfRtPvkeJzNMEOzoUazNWF1LWZ/HhIizNevVe1afFHIQo\naKTwIRAreyA0/dCFcw1+fsPHw4opuMBXKVJZP3CJ8J12cXqSVqxPjjmxAoGBANLd\ndF/B9JYPMvhjNR0CM/tsheku6dWy+kEOwuW9jGDOf2ibeY+nBn2Afqzh41nnLwHy\nR64mwhRhnumU6xcSqhrHGwWKeKJEPc3NJhcMwzAzB5nOMZdOF/TVr31YTSzOk3j0\nl5tBJrfJjLqht1c1SNfq5onYRtf1I7n7ij6XTHfPAoGAdHNlFnevhDHCPlIAvBm+\nmKJuHHv6BdlxEvr2NhC4IgSWRlGGl9M31vtPffSFvoeZx9OBhaIBFHSX3wSOD4p9\nWksFF68btEWqva2K6WxaQ3Vhg39hP4YTFuEMoA5ECq2Jr1yEv1pDf44nuJ9s57cN\ngunCHMiygXhlYsLWMsVMpcU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shopeebot@shopeebot-451907.iam.gserviceaccount.com",
+  "client_id": "103810699459692764727",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shopeebot%40shopeebot-451907.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
